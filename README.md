@@ -1,0 +1,2 @@
+Info!
+# es6component
